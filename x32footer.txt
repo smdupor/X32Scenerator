@@ -1,0 +1,222 @@
+/fx/1 VRM
+/fx/1/source MIX13 MIX13
+/fx/1/par 20 1.57 24 30 22 0.0 0.69 0.58 338 20k0 28 34 OFF 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fx/2 HALL
+/fx/2/source MIX14 MIX14
+/fx/2/par 20 0.88 60 5k74 25 0.0 83 7k2 0.95 25 50 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fx/3 VRM
+/fx/3/source MIX15 MIX15
+/fx/3/par 20 2.16 24 30 22 0.0 1.10 0.69 89 10k4 28 34 OFF 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fx/4 VRM
+/fx/4/source MIX16 MIX16
+/fx/4/par 20 2.16 24 30 22 0.0 1.10 0.69 89 10k4 28 34 OFF 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fx/5 GEQ
+/fx/5/par -15.0 -15.0 -15.0 -15.0 -15.0 -15.0 -15.0 -7.0 -7.0 -12.5 -9.0 -6.5 -7.5 -11.0 -9.5 -10.5 -7.0 -6.5 -7.5 -4.0 -3.5 -4.5 -4.0 -2.0 -1.5 -5.5 -15.0 -5.0 -3.0 -1.5 0.0 0.0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fx/6 GEQ
+/fx/6/par -15.0 -15.0 -15.0 -14.0 -11.5 -10.0 -9.5 -8.0 -8.0 -7.5 -5.0 -4.5 -7.5 -6.0 -6.5 -6.5 -5.5 -4.0 -3.5 -6.0 0.0 0.0 -3.0 0.0 -2.5 -7.5 -4.5 0.0 0.0 0.0 0.0 0.0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fx/7 GEQ
+/fx/7/par -15.0 -15.0 -15.0 -15.0 -15.0 -8.5 -4.0 -5.5 -6.5 -5.5 -7.0 -5.5 -6.0 -11.5 -6.5 -5.5 -4.0 -6.0 -4.5 -1.5 0.0 -4.0 0.0 -3.0 -4.0 -4.0 -7.0 -4.0 -4.5 0.0 0.0 0.0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fx/8 GEQ
+/fx/8/par 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -0.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -2.0 -5.0 -3.0 0.0 0.0 0.0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/outputs/main/01 11 POST OFF
+/outputs/main/01/delay OFF   0.3
+/outputs/main/02 20 POST OFF
+/outputs/main/02/delay OFF   0.3
+/outputs/main/03 21 POST OFF
+/outputs/main/03/delay OFF   0.3
+/outputs/main/04 22 POST OFF
+/outputs/main/04/delay OFF   0.3
+/outputs/main/05 0 POST OFF
+/outputs/main/05/delay OFF   0.3
+/outputs/main/06 0 POST OFF
+/outputs/main/06/delay OFF   0.3
+/outputs/main/07 9 POST OFF
+/outputs/main/07/delay OFF   0.3
+/outputs/main/08 10 POST OFF
+/outputs/main/08/delay OFF   0.3
+/outputs/main/09 4 POST OFF
+/outputs/main/09/delay OFF   0.3
+/outputs/main/10 24 POST OFF
+/outputs/main/10/delay OFF   0.3
+/outputs/main/11 0 POST OFF
+/outputs/main/11/delay OFF   0.3
+/outputs/main/12 0 POST OFF
+/outputs/main/12/delay OFF   0.3
+/outputs/main/13 0 POST OFF
+/outputs/main/13/delay OFF   0.3
+/outputs/main/14 25 POST OFF
+/outputs/main/14/delay OFF   0.3
+/outputs/main/15 15 POST OFF
+/outputs/main/15/delay OFF   0.3
+/outputs/main/16 23 POST OFF
+/outputs/main/16/delay OFF   0.3
+/outputs/aux/01 0 POST OFF
+/outputs/aux/02 0 POST OFF
+/outputs/aux/03 0 POST OFF
+/outputs/aux/04 0 POST OFF
+/outputs/aux/05 0 POST OFF
+/outputs/aux/06 0 POST OFF
+/outputs/p16/01 42 EQ-> OFF
+/outputs/p16/01/iQ OFF none Linear 0
+/outputs/p16/02 43 EQ-> OFF
+/outputs/p16/02/iQ OFF none Linear 0
+/outputs/p16/03 44 EQ-> OFF
+/outputs/p16/03/iQ OFF none Linear 0
+/outputs/p16/04 45 EQ-> OFF
+/outputs/p16/04/iQ OFF none Linear 0
+/outputs/p16/05 46 EQ-> OFF
+/outputs/p16/05/iQ OFF none Linear 0
+/outputs/p16/06 47 EQ-> OFF
+/outputs/p16/06/iQ OFF none Linear 0
+/outputs/p16/07 48 EQ-> OFF
+/outputs/p16/07/iQ OFF none Linear 0
+/outputs/p16/08 49 EQ-> OFF
+/outputs/p16/08/iQ OFF none Linear 0
+/outputs/p16/09 50 EQ-> OFF
+/outputs/p16/09/iQ OFF none Linear 0
+/outputs/p16/10 51 EQ-> OFF
+/outputs/p16/10/iQ OFF none Linear 0
+/outputs/p16/11 52 EQ-> OFF
+/outputs/p16/11/iQ OFF none Linear 0
+/outputs/p16/12 53 EQ-> OFF
+/outputs/p16/12/iQ OFF none Linear 0
+/outputs/p16/13 56 EQ-> OFF
+/outputs/p16/13/iQ OFF none Linear 0
+/outputs/p16/14 57 EQ-> OFF
+/outputs/p16/14/iQ OFF none Linear 0
+/outputs/p16/15 12 POST OFF
+/outputs/p16/15/iQ OFF none Linear 0
+/outputs/p16/16 14 POST OFF
+/outputs/p16/16/iQ OFF none Linear 0
+/outputs/aes/01 1 POST OFF
+/outputs/aes/02 2 POST OFF
+/outputs/rec/01 1 <-EQ
+/outputs/rec/02 2 <-EQ
+/headamp/000 +16.5 OFF
+/headamp/001 +10.5 OFF
+/headamp/002 +11.5 OFF
+/headamp/003 +28.5 OFF
+/headamp/004 +14.0 OFF
+/headamp/005 +8.5 OFF
+/headamp/006 +37.0 OFF
+/headamp/007 -4.0 OFF
+/headamp/008 +12.0 OFF
+/headamp/009 -9.0 OFF
+/headamp/010 +15.0 OFF
+/headamp/011 +16.0 OFF
+/headamp/012 +17.5 OFF
+/headamp/013 +36.5 OFF
+/headamp/014 +10.5 OFF
+/headamp/015 +10.5 OFF
+/headamp/016 +0.0 OFF
+/headamp/017 +0.0 OFF
+/headamp/018 +0.0 OFF
+/headamp/019 +0.0 OFF
+/headamp/020 +0.0 OFF
+/headamp/021 +0.0 OFF
+/headamp/022 +0.0 OFF
+/headamp/023 +0.0 OFF
+/headamp/024 +0.0 OFF
+/headamp/025 +0.0 OFF
+/headamp/026 +0.0 OFF
+/headamp/027 +0.0 OFF
+/headamp/028 +0.0 OFF
+/headamp/029 +0.0 OFF
+/headamp/030 +0.0 OFF
+/headamp/031 +0.0 OFF
+/headamp/032 +27.0 OFF
+/headamp/033 +8.5 OFF
+/headamp/034 +0.0 ON
+/headamp/035 +41.0 OFF
+/headamp/036 +23.0 OFF
+/headamp/037 +17.0 OFF
+/headamp/038 +26.5 OFF
+/headamp/039 +25.5 OFF
+/headamp/040 +34.0 OFF
+/headamp/041 +33.0 OFF
+/headamp/042 +24.0 ON
+/headamp/043 +27.0 ON
+/headamp/044 +0.0 ON
+/headamp/045 +21.0 OFF
+/headamp/046 +17.5 ON
+/headamp/047 +21.0 ON
+/headamp/048 +0.0 OFF
+/headamp/049 +0.0 OFF
+/headamp/050 +0.0 OFF
+/headamp/051 +0.0 OFF
+/headamp/052 +0.0 OFF
+/headamp/053 +0.0 OFF
+/headamp/054 +0.0 OFF
+/headamp/055 +0.0 OFF
+/headamp/056 +0.0 OFF
+/headamp/057 +0.0 OFF
+/headamp/058 +0.0 OFF
+/headamp/059 +0.0 OFF
+/headamp/060 +0.0 OFF
+/headamp/061 +0.0 OFF
+/headamp/062 +0.0 OFF
+/headamp/063 +0.0 OFF
+/headamp/064 +0.0 OFF
+/headamp/065 +0.0 OFF
+/headamp/066 +0.0 OFF
+/headamp/067 +0.0 OFF
+/headamp/068 +0.0 OFF
+/headamp/069 +0.0 OFF
+/headamp/070 +0.0 OFF
+/headamp/071 +0.0 OFF
+/headamp/072 +0.0 OFF
+/headamp/073 +0.0 OFF
+/headamp/074 +0.0 OFF
+/headamp/075 +0.0 OFF
+/headamp/076 +0.0 OFF
+/headamp/077 +0.0 OFF
+/headamp/078 +0.0 OFF
+/headamp/079 +0.0 OFF
+/headamp/080 +34.0 OFF
+/headamp/081 +24.0 ON
+/headamp/082 +35.5 OFF
+/headamp/083 +21.0 ON
+/headamp/084 +21.0 ON
+/headamp/085 +21.5 ON
+/headamp/086 +29.0 ON
+/headamp/087 +29.0 ON
+/headamp/088 +0.0 OFF
+/headamp/089 +0.0 OFF
+/headamp/090 +0.0 OFF
+/headamp/091 +0.0 OFF
+/headamp/092 +0.0 OFF
+/headamp/093 +0.0 OFF
+/headamp/094 +0.0 OFF
+/headamp/095 +0.0 OFF
+/headamp/096 +0.0 OFF
+/headamp/097 +0.0 OFF
+/headamp/098 +0.0 OFF
+/headamp/099 +0.0 OFF
+/headamp/100 +0.0 OFF
+/headamp/101 +0.0 OFF
+/headamp/102 +0.0 OFF
+/headamp/103 +0.0 OFF
+/headamp/104 +0.0 OFF
+/headamp/105 +0.0 OFF
+/headamp/106 +0.0 OFF
+/headamp/107 +0.0 OFF
+/headamp/108 +0.0 OFF
+/headamp/109 +0.0 OFF
+/headamp/110 +0.0 OFF
+/headamp/111 +0.0 OFF
+/headamp/112 +0.0 OFF
+/headamp/113 +0.0 OFF
+/headamp/114 +0.0 OFF
+/headamp/115 +0.0 OFF
+/headamp/116 +0.0 OFF
+/headamp/117 +0.0 OFF
+/headamp/118 +0.0 OFF
+/headamp/119 +0.0 OFF
+/headamp/120 +0.0 OFF
+/headamp/121 +0.0 OFF
+/headamp/122 +0.0 OFF
+/headamp/123 +0.0 OFF
+/headamp/124 +0.0 OFF
+/headamp/125 +0.0 OFF
+/headamp/126 +0.0 OFF
+/headamp/127 +0.0 OFF
